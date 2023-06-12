@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body {
+    background: rgb(64, 0, 138);
+    color: white;
+    padding-top: 100px;
+}
+
+li a {
+    color: white !important;
+}
+
+.navbar-brand img {
+    width: 60px;
+}
+
+.btn {
+    color: white !important;
+    border-radius: 60px;
+}
+
+.doct-img {
+    width: 100%;
+}
+
+input,
+.form-floating {
+    color: rgb(128, 59, 255);
+}
+
+.form-control,
+select {
+    margin-bottom: 10px;
+}
+
+#footer a {
+    color: rgb(26, 255, 236) !important;
+}
